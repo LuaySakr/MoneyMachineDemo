@@ -1,3 +1,5 @@
+#   This is a clone from https://github.com/askmike/gekko and it is for educational purpose only
+
 # This repo is not maintained anymore
 
 I am officially not maintaining this project anymore. It was an amazing journey and I want to thank everyone for
